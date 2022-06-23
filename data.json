@@ -1,4 +1,18 @@
 {
-	"global-password": "",
-	"passwords": []
+	"global-password": "e9ea48510cc98a0f0d8d98200e96a6cc:dc22b2221e436e77e8e4a6e8af9ff495ed606eb03cfbef7a7f8848bc1120274d2712c35acae88eda4ec91a72335092d179cb1cd69f32be6f1b0414a889fb34a3",
+	"passwords": [
+		{
+			"name": "steam",
+			"iv": "e4a7884a78013f81ecb4e5eed252b6ac",
+			"encryptedData": "65b7dcaa017d5507ef9d9ac15fcd1e51",
+			"key": {
+				"type": "Buffer",
+				"data": [
+					253, 131, 110, 103, 10, 28, 199, 133, 157, 247, 78, 207, 46, 24, 95,
+					69, 146, 11, 35, 123, 28, 156, 118, 76, 225, 202, 207, 70, 61, 82,
+					176, 189
+				]
+			}
+		}
+	]
 }
