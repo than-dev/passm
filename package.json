@@ -1,0 +1,30 @@
+{
+	"name": "password-manager",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "passm"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/than-dev/password-manager.git"
+	},
+	"keywords": [
+		"password",
+		"management",
+		"security"
+	],
+	"author": "Nathan Cotrim",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/than-dev/password-manager/issues"
+	},
+	"homepage": "https://github.com/than-dev/password-manager#readme",
+	"bin": {
+		"passm": "src/index.js"
+	},
+	"dependencies": {
+		"bin": "^0.0.0"
+	}
+}
