@@ -47,6 +47,8 @@ All the passwords are saved in a json file, but it's encrypted!
 
 ### 🍾 See It <br>
 
+https://user-images.githubusercontent.com/82950902/175791556-1a3f4ff7-2d6a-426f-b065-9dcece3ea258.mp4
+ 
 <br>
 
 ### 🎷 Author
